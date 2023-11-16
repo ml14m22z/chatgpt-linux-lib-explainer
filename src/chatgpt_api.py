@@ -1,7 +1,8 @@
+import os
 import openai
 
 class ChatGPTAPI:
-    def __init__(self, api_key):
+    def __init__(self, api_key=os.environ['OPENAI_API_KEY']):
         self.api_key = api_key
         openai.api_key = self.api_key
 
@@ -21,8 +22,7 @@ if __name__ == "__main__":
     # import os
     # os.environ['http_proxy'] = 'http://proxy-server:port'
     # os.environ['https_proxy'] = 'https://proxy-server:port'
-    api_key = input("Enter your OpenAI API key: ")
-    chatgpt_api = ChatGPTAPI(api_key)
+    chatgpt_api = ChatGPTAPI()
     prompt = "This is a test prompt."
     response = chatgpt_api.generate_response(prompt)
     print(response)
