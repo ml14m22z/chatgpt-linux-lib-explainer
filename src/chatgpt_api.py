@@ -23,6 +23,6 @@ if __name__ == "__main__":
     # os.environ['http_proxy'] = 'http://proxy-server:port'
     # os.environ['https_proxy'] = 'https://proxy-server:port'
     chatgpt_api = ChatGPTAPI()
-    prompt = "This is a test prompt."
+    prompt = input("Enter your prompt: ") or "This is a test prompt."
     response = chatgpt_api.generate_response(prompt)
     print(response)
