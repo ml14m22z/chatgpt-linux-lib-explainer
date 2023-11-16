@@ -1,0 +1,3 @@
+openai==0.27.0
+ctypes==1.1.0
+unittest2==1.1.0
