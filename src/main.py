@@ -1,25 +1,33 @@
+import json
+import os
 from chatgpt_api import ChatGPTAPI
 from linux_lib_explainer import LinuxLibExplainer
 
 def main():
-    # Get the name of the Linux shared library to explain
-    lib_name = input("Enter the name of the Linux shared library to explain: ")
+    with open('FastDDS_Examples.json', 'r') as f:
+        binaries = json.load(f)
+
+    libs = dict()
+    for binary in binaries:
+        for dep in binary['deps']:
+            dep_path = dep['dep']
+            dep_name = os.path.basename(dep_path)
+            libs[dep_name] = None
     
-    # Create an instance of LinuxLibExplainer
-    linux_lib_explainer = LinuxLibExplainer(lib_name)
-
-    # Get the explanation of the Linux shared library
-    function_list = linux_lib_explainer.get_function_list()
-    explanation = linux_lib_explainer.explain_function(function_list[0])
-
     # Create an instance of ChatGPTAPI
     chatgpt_api = ChatGPTAPI()
 
-    # Use ChatGPTAPI to generate a more user-friendly explanation
-    user_friendly_explanation = chatgpt_api.generate_explanation(explanation)
-
-    # Print the user-friendly explanation
-    print(user_friendly_explanation)
+    for lib in libs:
+        print(lib)
+        prompt = f'Explain the lib: {lib}'
+        print(prompt)
+        res = chatgpt_api.generate_response(prompt)
+        print(res)
+        libs[lib] = res
+    
+    # Save libs in JSON file
+    with open('libs.json', 'w') as f:
+        json.dump(libs, f, indent=4)
 
 if __name__ == "__main__":
     main()
