@@ -1,0 +1,1536 @@
+[
+    {
+        "binary_path": "./rtps/Registered/bin/Registered",
+        "binary_size": "168.82 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./rtps/Persistent/bin/Persistent",
+        "binary_size": "195.24 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./rtps/AsSocket/bin/AsSocket",
+        "binary_size": "85.57 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/LifespanQoSExample/bin/DDSLifespanQoSExample",
+        "binary_size": "203.06 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/RequestReplyExample/bin/DDSCalculatorClient",
+        "binary_size": "146.45 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/RequestReplyExample/bin/DDSCalculatorServer",
+        "binary_size": "145.82 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/ContentFilteredTopicExample/bin/DDSContentFilteredTopicExample",
+        "binary_size": "263.81 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/ZeroCopyExample/bin/DDSZeroCopyExample",
+        "binary_size": "249.52 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/SecureHelloWorldExample/bin/DDSSecureHelloWorldExample",
+        "binary_size": "228.46 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/WriterLoansExample/bin/DDSWriterLoansExample",
+        "binary_size": "208.38 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/TypeLookupService/bin/TypeLookupExample",
+        "binary_size": "260.09 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/FlowControlExample/bin/DDSFlowControlExample",
+        "binary_size": "158.26 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/BasicConfigurationExample/bin/BasicConfigurationExample",
+        "binary_size": "301.69 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/Configurability/bin/DDSConfigurabilityPublisher",
+        "binary_size": "124.98 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/Configurability/bin/DDSConfigurabilitySubscriber",
+        "binary_size": "174.34 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/OwnershipStrengthQoSExample/bin/DDSOwnershipStrengthQoSExample",
+        "binary_size": "214.48 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/HelloWorldExampleDataSharing/bin/DDSHelloWorldExampleDataSharing",
+        "binary_size": "229.44 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/DisablePositiveACKs/bin/DDSDisablePositiveACKs",
+        "binary_size": "203.44 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/HelloWorldExampleTCP/bin/DDSHelloWorldExampleTCP",
+        "binary_size": "251.07 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/StaticHelloWorldExample/bin/DDSStaticHelloWorldExample",
+        "binary_size": "203.05 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/Benchmark/bin/DDSBenchmark",
+        "binary_size": "336.31 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/DeadlineQoSExample/bin/DDSDeadlineQoSExample",
+        "binary_size": "208.48 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/HelloWorldExampleSharedMem/bin/DDSHelloWorldExampleSharedMem",
+        "binary_size": "221.55 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/CustomListenerExample/bin/DDSCustomListenerExample",
+        "binary_size": "226.41 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/AdvancedConfigurationExample/bin/AdvancedConfigurationExample",
+        "binary_size": "317.36 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/SampleConfig_Multimedia/bin/DDSSampleConfig_Multimedia",
+        "binary_size": "178.73 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/SampleConfig_Controller/bin/DDSSampleConfig_Controller",
+        "binary_size": "178.77 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/SampleConfig_Events/bin/DDSSampleConfig_Events",
+        "binary_size": "178.73 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/HelloWorldExample/bin/DDSHelloWorldExample",
+        "binary_size": "272.42 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/HistoryKind/bin/DDSHistoryKind",
+        "binary_size": "178.86 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/LateJoiners/bin/DDSLateJoiners",
+        "binary_size": "178.86 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/LivelinessQoS/bin/DDSLivelinessQoS",
+        "binary_size": "226.45 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/Keys/bin/DDSKeys",
+        "binary_size": "190.59 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/DiscoveryServerExample/bin/DiscoveryServerExample",
+        "binary_size": "466.99 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/DynamicHelloWorldExample/bin/DDSDynamicHelloWorldExample",
+        "binary_size": "257.93 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./dds/Filtering/bin/DDSFiltering",
+        "binary_size": "145.76 KB",
+        "deps": [
+            {
+                "dep": "/usr/local/eprosima/fastrtps/lib/libfastrtps.so.2.11",
+                "dep_size": "12.77 MB"
+            },
+            {
+                "dep": "/usr/local/eprosima/fastcdr/lib/libfastcdr.so.1",
+                "dep_size": "105.31 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.15 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "122.55 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libtinyxml2.so.9",
+                "dep_size": "90.66 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libssl.so.3",
+                "dep_size": "652.21 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libcrypto.so.3",
+                "dep_size": "4.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "918.52 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./binary_size/main",
+        "binary_size": "4.81 MB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "14.09 KB"
+            },
+            {
+                "dep": "/tmp/_MEIXIwUi7/libz.so.1",
+                "dep_size": "106.38 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "20.95 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "2.11 MB"
+            }
+        ]
+    }
+]
