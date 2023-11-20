@@ -19,7 +19,7 @@ def main():
 
     for lib in libs:
         print(lib)
-        prompt = f'Explain the lib: {lib}'
+        prompt = f'Explain the lib in English: {lib}'
         print(prompt)
         res = spark_api.generate_response(prompt)
         print(res)
