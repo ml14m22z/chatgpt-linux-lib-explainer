@@ -1,6 +1,6 @@
 import json
 import os
-from chatgpt_api import ChatGPTAPI
+from spark_api import SparkAPI
 from linux_lib_explainer import LinuxLibExplainer
 
 def main():
@@ -14,14 +14,14 @@ def main():
             dep_name = os.path.basename(dep_path)
             libs[dep_name] = None
     
-    # Create an instance of ChatGPTAPI
-    chatgpt_api = ChatGPTAPI()
+    # Create an instance of SparkAPI
+    spark_api = SparkAPI()
 
     for lib in libs:
         print(lib)
         prompt = f'Explain the lib: {lib}'
         print(prompt)
-        res = chatgpt_api.generate_response(prompt)
+        res = spark_api.generate_response(prompt)
         print(res)
         libs[lib] = res
     
