@@ -27,7 +27,7 @@ def main():
     
     # Save libs in JSON file
     with open('libs.json', 'w') as f:
-        json.dump(libs, f, indent=4)
+        json.dump(libs, f, indent=4, ensure_ascii=False)
 
 if __name__ == "__main__":
     main()
