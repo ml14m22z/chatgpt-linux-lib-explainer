@@ -1,6 +1,6 @@
-# chatgpt-linux-lib-explainer
+# llm-linux-lib-explainer
 
-This project is a Python application that uses the ChatGPT API to explain specific Linux shared libraries. It uses the `ctypes` library to interact with the Linux shared libraries and the `openai` library to interact with the ChatGPT API.
+This project is a Python application that uses the LLM API to explain specific Linux shared libraries. It uses the `ctypes` library to interact with the Linux shared libraries and the `openai` library to interact with the LLM API.
 
 ## Getting Started
 
@@ -15,12 +15,12 @@ These instructions will get you a copy of the project up and running on your loc
 
 1. Clone the repository:
 ```
-git clone https://github.com/yourusername/chatgpt-linux-lib-explainer.git
+git clone https://github.com/yourusername/llm-linux-lib-explainer.git
 ```
 
 2. Navigate to the project directory:
 ```
-cd chatgpt-linux-lib-explainer
+cd llm-linux-lib-explainer
 ```
 
 3. Install the required dependencies:
@@ -61,7 +61,7 @@ Please read [CONTRIBUTING.md](https://gist.github.com/yourusername/yourcontribut
 
 - Your Name - Initial work - [YourUsername](https://github.com/yourusername)
 
-See also the list of [contributors](https://github.com/yourusername/chatgpt-linux-lib-explainer/contributors) who participated in this project.
+See also the list of [contributors](https://github.com/yourusername/llm-linux-lib-explainer/contributors) who participated in this project.
 
 ## License
 
