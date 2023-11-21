@@ -1,10 +1,18 @@
+import sys
 import json
 import os
 from spark_api import SparkAPI
 from linux_lib_explainer import LinuxLibExplainer
 
 def main():
-    with open('FastDDS_Examples.json', 'r') as f:
+    # Check if the input file argument is provided
+    if len(sys.argv) < 2:
+        print("Please provide the input file as an argument.")
+        return
+
+    input_file = sys.argv[1]
+
+    with open(input_file, 'r') as f:
         binaries = json.load(f)
 
     libs = dict()

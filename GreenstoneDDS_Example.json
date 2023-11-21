@@ -1,0 +1,547 @@
+[
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/Throughput",
+        "binary_size": "1.39 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/greenstone-dds/demo/Throughput/../../lib/x86-64_gcc7.5.0/libgreenstone-DCPS.so",
+                "dep_size": "3.64 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin",
+        "binary_size": "16.16 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin",
+        "binary_size": "16.17 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out",
+        "binary_size": "16.33 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/3.16.3/CompilerIdC/a.out",
+        "binary_size": "16.32 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/home/moke/code/greenstone-dds/utils/ConfigParser.cpp.o",
+        "binary_size": "2.78 MB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/home/moke/code/greenstone-dds/utils/GeneralListeners.cpp.o",
+        "binary_size": "229.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/src/ThroughputSub.cpp.o",
+        "binary_size": "476.11 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/src/ThroughputPub.cpp.o",
+        "binary_size": "496.34 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/src/ThroughputMain.cpp.o",
+        "binary_size": "423.55 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/datatype/Throughput.cpp.o",
+        "binary_size": "34.82 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Throughput/build/CMakeFiles/Throughput.dir/datatype/ThroughputTopicDataType.cpp.o",
+        "binary_size": "58.7 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/TestHelloworld",
+        "binary_size": "1.34 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/greenstone-dds/demo/HelloWorld/../../lib/x86-64_gcc7.5.0/libgreenstone-DCPS.so",
+                "dep_size": "3.64 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin",
+        "binary_size": "16.16 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin",
+        "binary_size": "16.17 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out",
+        "binary_size": "16.33 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/3.16.3/CompilerIdC/a.out",
+        "binary_size": "16.32 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/home/moke/code/greenstone-dds/utils/ConfigParser.cpp.o",
+        "binary_size": "2.78 MB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/home/moke/code/greenstone-dds/utils/GeneralListeners.cpp.o",
+        "binary_size": "229.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/src/HelloworldReader.cpp.o",
+        "binary_size": "394.7 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/src/HelloworldMain.cpp.o",
+        "binary_size": "370.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/src/HelloworldWriter.cpp.o",
+        "binary_size": "394.52 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/datatype/HelloworldTopicDataType.cpp.o",
+        "binary_size": "58.7 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/HelloWorld/build/CMakeFiles/TestHelloworld.dir/datatype/Helloworld.cpp.o",
+        "binary_size": "34.25 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/TestWaitSet",
+        "binary_size": "1.34 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/greenstone-dds/demo/WaitSet/../../lib/x86-64_gcc7.5.0/libgreenstone-DCPS.so",
+                "dep_size": "3.64 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin",
+        "binary_size": "16.16 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin",
+        "binary_size": "16.17 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out",
+        "binary_size": "16.33 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/3.16.3/CompilerIdC/a.out",
+        "binary_size": "16.32 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/home/moke/code/greenstone-dds/utils/ConfigParser.cpp.o",
+        "binary_size": "2.78 MB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/home/moke/code/greenstone-dds/utils/GeneralListeners.cpp.o",
+        "binary_size": "229.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/src/WaitSetWriter.cpp.o",
+        "binary_size": "396.84 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/src/WaitSetMain.cpp.o",
+        "binary_size": "370.13 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/src/WaitSetReader.cpp.o",
+        "binary_size": "389.05 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/datatype/WaitSetTopicDataType.cpp.o",
+        "binary_size": "58.58 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/WaitSet/build/CMakeFiles/TestWaitSet.dir/datatype/WaitSet.cpp.o",
+        "binary_size": "34.14 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/TestZeroCopy",
+        "binary_size": "1.34 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/greenstone-dds/demo/ZeroCopy/../../lib/x86-64_gcc7.5.0/libgreenstone-DCPS.so",
+                "dep_size": "3.64 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/home/moke/code/greenstone-dds/utils/ConfigParser.cpp.o",
+        "binary_size": "2.78 MB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/home/moke/code/greenstone-dds/utils/GeneralListeners.cpp.o",
+        "binary_size": "229.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/src/ZeroCopyReader.cpp.o",
+        "binary_size": "398.2 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/src/ZeroCopyMain.cpp.o",
+        "binary_size": "370.14 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/src/ZeroCopyWriter.cpp.o",
+        "binary_size": "391.66 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/datatype/ZeroCopyTopicDataType.cpp.o",
+        "binary_size": "58.67 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/TestZeroCopy.dir/datatype/ZeroCopy.cpp.o",
+        "binary_size": "36.45 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin",
+        "binary_size": "16.16 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin",
+        "binary_size": "16.17 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out",
+        "binary_size": "16.33 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/ZeroCopy/build/CMakeFiles/3.16.3/CompilerIdC/a.out",
+        "binary_size": "16.32 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/Latency",
+        "binary_size": "1.41 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/greenstone-dds/demo/Latency/../../lib/x86-64_gcc7.5.0/libgreenstone-DCPS.so",
+                "dep_size": "3.64 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_C.bin",
+        "binary_size": "16.16 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/3.16.3/CMakeDetermineCompilerABI_CXX.bin",
+        "binary_size": "16.17 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/3.16.3/CompilerIdCXX/a.out",
+        "binary_size": "16.33 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/3.16.3/CompilerIdC/a.out",
+        "binary_size": "16.32 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/home/moke/code/greenstone-dds/utils/ConfigParser.cpp.o",
+        "binary_size": "2.78 MB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/home/moke/code/greenstone-dds/utils/GeneralListeners.cpp.o",
+        "binary_size": "229.16 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/src/LatencySub.cpp.o",
+        "binary_size": "456.06 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/src/LatencyMain.cpp.o",
+        "binary_size": "423.51 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/src/LatencyPub.cpp.o",
+        "binary_size": "567.91 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/datatype/LatencyTopicDataType.cpp.o",
+        "binary_size": "58.58 KB",
+        "deps": []
+    },
+    {
+        "binary_path": "/home/moke/code/greenstone-dds/demo/Latency/build/CMakeFiles/Latency.dir/datatype/Latency.cpp.o",
+        "binary_size": "34.7 KB",
+        "deps": []
+    }
+]
