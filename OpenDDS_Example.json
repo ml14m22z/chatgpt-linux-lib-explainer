@@ -1,0 +1,2208 @@
+[
+    {
+        "binary_path": "./DCPS/UnionTopic/UnionTopic",
+        "binary_size": "7.08 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DynamicResponse/responder",
+        "binary_size": "2.06 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps_Udp.so.3.27.0-dev",
+                "dep_size": "13.96 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DynamicResponse/origin",
+        "binary_size": "11.68 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps_Udp.so.3.27.0-dev",
+                "dep_size": "13.96 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DynamicTypes/Recorder/xtypes_dynamic_recorder",
+        "binary_size": "1.47 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DynamicTypes/Pub/xtypes_dynamic_pub",
+        "binary_size": "27.08 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DCPSInfoRepo/pubsub",
+        "binary_size": "2.19 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_InfoRepoDiscovery.so.3.27.0-dev",
+                "dep_size": "4.7 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_PortableServer.so.2.5.20",
+                "dep_size": "16.66 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Tcp.so.3.27.0-dev",
+                "dep_size": "4.81 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_BiDirGIOP.so.2.5.20",
+                "dep_size": "1.32 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_CodecFactory.so.2.5.20",
+                "dep_size": "1.15 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_PI.so.2.5.20",
+                "dep_size": "5.55 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/ReadCondition/ReadConditionTest",
+        "binary_size": "6.51 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/ConfigFile/ConfigFile",
+        "binary_size": "1.72 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_InfoRepoDiscovery.so.3.27.0-dev",
+                "dep_size": "4.7 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Tcp.so.3.27.0-dev",
+                "dep_size": "4.81 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_BiDirGIOP.so.2.5.20",
+                "dep_size": "1.32 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_CodecFactory.so.2.5.20",
+                "dep_size": "1.15 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_PortableServer.so.2.5.20",
+                "dep_size": "16.66 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_PI.so.2.5.20",
+                "dep_size": "5.55 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DynamicData/publisher",
+        "binary_size": "6.62 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RtpsMessages/RtpsMessagesTest",
+        "binary_size": "605.18 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/MultiTopic/classic/MultiTopicTest",
+        "binary_size": "13.32 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/MultiTopic/cpp11/MultiTopicTest",
+        "binary_size": "13.08 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DataRepresentation/DataRepresentation",
+        "binary_size": "12.46 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/MockedTypeSupport/MockedTypeSupport",
+        "binary_size": "2.52 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/StaticDiscoveryReconnect/StaticDiscoveryTest",
+        "binary_size": "6.34 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/HelloWorld/publisher",
+        "binary_size": "6.6 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RtpsRelay/Smoke/monitor",
+        "binary_size": "1.74 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_RtpsRelay.so.3.27.0-dev",
+                "dep_size": "19.11 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Rtps.so.3.27.0-dev",
+                "dep_size": "22.41 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RtpsRelay/Smoke/metachecker",
+        "binary_size": "69.34 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RtpsRelay/STUN/StunClient",
+        "binary_size": "66.77 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/ZeroCopyRead/main",
+        "binary_size": "6.64 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/KeyTest/KeyTest_MD5",
+        "binary_size": "71.54 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/DelayedDurable/DelayedDurable",
+        "binary_size": "6.69 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/TypeSupportPlugin/TypeSupportPluginUser",
+        "binary_size": "1.63 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RecorderReplayer/relay",
+        "binary_size": "1.78 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/ContentFilteredTopic/ContentFilteredTopicTest",
+        "binary_size": "7.14 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/RtpsDiscovery/RtpsDiscoveryTest",
+        "binary_size": "6.85 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/FilterExpression/FilterExpressionTest",
+        "binary_size": "7.41 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/TcpReconnect/stub",
+        "binary_size": "682.7 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/TopicExpression/TopicExpressionTest",
+        "binary_size": "590.09 KB",
+        "deps": [
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/WriteDataContainer/WriteDataContainerTest",
+        "binary_size": "6.67 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/UnregisterType/unregister_type_test",
+        "binary_size": "6.33 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/StaticDiscovery/StaticDiscoveryTest",
+        "binary_size": "7.21 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/GuardCondition/GuardConditionTest",
+        "binary_size": "538.19 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/Serializer/SerializerTest",
+        "binary_size": "448.56 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/Compiler/namespace_conflict/main",
+        "binary_size": "5.99 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/Compiler/typecode/Compiler_Typecode",
+        "binary_size": "8.59 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/Compiler/isolated_types/main",
+        "binary_size": "3.47 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/BitDataReader/BitDataReader",
+        "binary_size": "2.64 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/ViewState/main",
+        "binary_size": "6.46 MB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/AddressLookup/main",
+        "binary_size": "98.78 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            }
+        ]
+    },
+    {
+        "binary_path": "./DCPS/FileSystemStorage/FileSystemStorageTest",
+        "binary_size": "272.19 KB",
+        "deps": [
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/lib/libOpenDDS_Dcps.so.3.27.0-dev",
+                "dep_size": "116.9 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libACE.so.6.5.20",
+                "dep_size": "12.24 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libstdc++.so.6",
+                "dep_size": "2.41 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libgcc_s.so.1",
+                "dep_size": "142.58 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libpthread.so.0",
+                "dep_size": "153.54 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libc.so.6",
+                "dep_size": "1.94 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_Valuetype.so.2.5.20",
+                "dep_size": "1.62 MB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO.so.2.5.20",
+                "dep_size": "28.19 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libm.so.6",
+                "dep_size": "1.31 MB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/libdl.so.2",
+                "dep_size": "18.41 KB"
+            },
+            {
+                "dep": "/lib/x86_64-linux-gnu/librt.so.1",
+                "dep_size": "35.12 KB"
+            },
+            {
+                "dep": "/home/moke/code/ml14m22z_OpenDDS/ACE_wrappers/lib/libTAO_AnyTypeCode.so.2.5.20",
+                "dep_size": "13.75 MB"
+            }
+        ]
+    }
+]
